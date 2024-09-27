@@ -1,4 +1,6 @@
-# ManagementSystem
+# 框架更新内容
 技术栈：Vue+Vite+Mxgraph
 
-<!--  -->
+## 2024/9/27日更新内容：
+###
+1.搭建整体
